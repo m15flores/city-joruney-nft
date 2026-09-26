@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #8 - Lyon",
+    "description": "A lifetime of French classes, finally justified. Lyon is the job I'd been aiming for since I started learning the language.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/8.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Lyon"},
+        {"trait_type": "From", "value": "07/2025"},
+        {"trait_type": "To", "value": "09/2026"},
+        {"trait_type": "Latitude", "value": "45.7597"},
+        {"trait_type": "Longitude", "value": "4.8422"}
+    ]
+}

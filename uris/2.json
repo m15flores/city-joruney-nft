@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #2 - Mont-Tremblant",
+    "description": "Where snowboarding stopped being a hobby and became a reason to stay.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/2.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Mont-Tremblant"},
+        {"trait_type": "From", "value": "12/2022"},
+        {"trait_type": "To", "value": "05/2023"},
+        {"trait_type": "Latitude", "value": "46.118"},
+        {"trait_type": "Longitude", "value": "-74.600"}
+    ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "cityName": "Madrid",
+    "latitude": 40416900,
+    "longitude": -3703300,
+    "fromDate": 873072000,
+    "toDate": 1659312000
+  },
+  {
+    "cityName": "Quebec City",
+    "latitude": 46816100,
+    "longitude": -71224200,
+    "fromDate": 1659312000,
+    "toDate": 1669852800
+  },
+  {
+    "cityName": "Mont-Tremblant",
+    "latitude": 46118000,
+    "longitude": -74600000,
+    "fromDate": 1669852800,
+    "toDate": 1682899200
+  },
+  {
+    "cityName": "Montreal",
+    "latitude": 45508800,
+    "longitude": -73561600,
+    "fromDate": 1682899200,
+    "toDate": 1693526400
+  },
+  {
+    "cityName": "Golden",
+    "latitude": 51301900,
+    "longitude": -116966700,
+    "fromDate": 1693526400,
+    "toDate": 1698796800
+  },
+  {
+    "cityName": "Squamish",
+    "latitude": 49701700,
+    "longitude": -123158800,
+    "fromDate": 1698796800,
+    "toDate": 1714521600
+  },
+  {
+    "cityName": "Tofino",
+    "latitude": 49152700,
+    "longitude": -125904400,
+    "fromDate": 1717200000,
+    "toDate": 1725148800
+  },
+  {
+    "cityName": "Madrid",
+    "latitude": 40416900,
+    "longitude": -3703300,
+    "fromDate": 1725148800,
+    "toDate": 1751328000
+  },
+  {
+    "cityName": "Lyon",
+    "latitude": 45759700,
+    "longitude": 4842200,
+    "fromDate": 1751328000,
+    "toDate": 1788220800
+  },
+  {
+    "cityName": "Aix-en-Provence",
+    "latitude": 43527800,
+    "longitude": 5445600,
+    "fromDate": 1788220800,
+    "toDate": 0
+  }
+]

@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #9 - Aix-en-Provence",
+    "description": "Not the slow, sunny ending I'd imagined. Mostly work to rebuild what two years of Canada had spent. But the surf and the whales still showed up.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/9.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Aix-en-Provence"},
+        {"trait_type": "From", "value": "09/2026"},
+        {"trait_type": "To", "value": "-"},
+        {"trait_type": "Latitude", "value": "43.5278"},
+        {"trait_type": "Longitude", "value": "5.4456"}
+    ]
+}

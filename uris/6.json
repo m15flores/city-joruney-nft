@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #6 - Tofino",
+    "description": "Nowhere left to rush to. Two years of Canada, closing on a wave.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/6.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Tofino"},
+        {"trait_type": "From", "value": "06/2024"},
+        {"trait_type": "To", "value": "09/2024"},
+        {"trait_type": "Latitude", "value": "49.1527"},
+        {"trait_type": "Longitude", "value": "-125.9044"}
+    ]
+}

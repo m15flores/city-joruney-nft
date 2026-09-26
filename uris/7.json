@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #7 - Madrid",
+    "description": "Back to the roots. Same city, different eyes.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/7.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Madrid"},
+        {"trait_type": "From", "value": "09/2024"},
+        {"trait_type": "To", "value": "07/2025"},
+        {"trait_type": "Latitude", "value": "40.4169"},
+        {"trait_type": "Longitude", "value": "-3.7033"}
+    ]
+}

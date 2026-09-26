@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #5 - Squamish",
+    "description": "Sea-to-Sky by address, Blackcomb by trade. Grinding toward a summer on the road.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/5.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Squamish"},
+        {"trait_type": "From", "value": "11/2023"},
+        {"trait_type": "To", "value": "05/2024"},
+        {"trait_type": "Latitude", "value": "49.7017"},
+        {"trait_type": "Longitude", "value": "-123.1588"}
+    ]
+}

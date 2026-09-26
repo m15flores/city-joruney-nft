@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #3 - Montreal",
+    "description": "The summer Montreal gave me the best festival season of my life, and a familiar face from home to share it with.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/3.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Montreal"},
+        {"trait_type": "From", "value": "05/2023"},
+        {"trait_type": "To", "value": "09/2023"},
+        {"trait_type": "Latitude", "value": "45.5088"},
+        {"trait_type": "Longitude", "value": "-73.5616"}
+    ]
+}

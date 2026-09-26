@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #4 - Golden",
+    "description": "A year away from tech. Mountains, bisons, and a different kind of work.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/4.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Golden"},
+        {"trait_type": "From", "value": "09/2023"},
+        {"trait_type": "To", "value": "11/2023"},
+        {"trait_type": "Latitude", "value": "51.3019"},
+        {"trait_type": "Longitude", "value": "-116.9667"}
+    ]
+}

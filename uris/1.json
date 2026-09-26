@@ -1,0 +1,12 @@
+{
+    "name": "City Journey NFT #1 - Quebec City",
+    "description": "Showed up with nothing but a backpack and no plan for that first night. A random afternoon of slackline in a park gave me my people.",
+    "image": "ipfs://bafybeic3k4fupcrgcxeihkfjmzgmjyv7drwpzfonlhrav6gsjjsi3gcpoy/1.jpg",
+    "attributes": [
+        {"trait_type": "City", "value": "Quebec City"},
+        {"trait_type": "From", "value": "08/2022"},
+        {"trait_type": "To", "value": "12/2022"},
+        {"trait_type": "Latitude", "value": "46.8161"},
+        {"trait_type": "Longitude", "value": "-71.2242"}
+    ]
+}
