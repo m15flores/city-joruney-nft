@@ -53,6 +53,10 @@ Some tests assert against literal `cityData(0)` / `cityData(1)` instead of compu
 
 - `totalSupply` is fixed at deploy time, with no owner function to increase it, and tokens are soulbound (non-transferable). Both are deliberate, not just technical defaults: this collection is a fixed set of ten chapters, from where the story started to where it stands right now. Some chapters already lived, the last one just beginning. A future chapter means a new collection, not an expansion of this one.
 
-- City data (name, coordinates, date range) lives on-chain in a `CityData` struct per token, verifiable and independent of any third-party service staying available. The descriptive phrase for each city stays in IPFS metadata instead: it's narrative content with no need for the stronger guarantees on-chain storage provides, and keeping it off-chain avoids the gas cost of storing long strings. A Go-based event indexer (planned) will read city data directly from the contract rather than from IPFS.
+- City data (name, coordinates, date range) lives on-chain in a `CityData` struct per token, verifiable and independent of any third-party service staying available. The descriptive phrase for each city stays in IPFS metadata instead: it's narrative content with no need for the stronger guarantees on-chain storage provides, and keeping it off-chain avoids the gas cost of storing long strings. A Go-based event indexer reads city data directly from the contract rather than from IPFS. See [Related](#related) below.
 
 - The minting script manages transaction nonces manually, fetching the starting nonce once and incrementing it locally between calls, rather than relying on automatic nonce resolution per transaction. Sequential mints submitted in quick succession triggered "nonce too low" errors when the nonce was recalculated on every call, since Arbitrum confirms fast enough for consecutive lookups to race each other.
+
+## Related
+
+[city-journey-indexer](https://github.com/m15flores/city-journey-indexer). Go backend that reads city data directly from this contract via `go-ethereum` and exposes it through a small HTTP API.
